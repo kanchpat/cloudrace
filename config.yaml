@@ -1,4 +1,4 @@
-baseURL: kanchpat.github.io/cloudrace/
+baseURL: http://kanchpat.github.io/cloudrace/
 languageCode: en-us
 title: Personal website and blog
 theme: hugo-refresh
