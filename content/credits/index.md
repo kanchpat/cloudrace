@@ -8,6 +8,9 @@ hideLastModified: true
 
 Built with [Hugo Refresh Theme](https://themes.gohugo.io/hugo-refresh/) 
 
-Hosted and Deployed with Google Cloud Storage
+Hosted and Deployed using Github pages
+Analytics using Google Analytics
+Domain using Google Domains
+Comments using Disqus
 
-Analytics with Google Analytics
+

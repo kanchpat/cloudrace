@@ -20,6 +20,8 @@ disableLanguages: ["ru"]
 
 disableKinds: ["sitemap","RSS"]
 
+disqusShortname: kanchanapatlolla
+
 # Option to specify that all links will be open in a new tab.
 blackfriday:
   hrefTargetBlank: true
